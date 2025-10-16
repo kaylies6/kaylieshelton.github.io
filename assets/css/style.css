@@ -33,11 +33,11 @@ body::before {
 }
 
 a {
-  color: #12d640;
+  color: #f0afea;
 }
 
 a:hover {
-  color: #12d640;
+  color: #f0afea;
   text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #12d640;
+  color: #f0afea;
 }
 
 #header h2 span {
@@ -114,7 +114,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .social-links a:hover {
-  background: #1c7d32;
+  background: #c86cbf;
 }
 
 @media (max-width: 992px) {
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #12d640;
+  color: #f0afea;
   text-decoration: none;
 }
 
